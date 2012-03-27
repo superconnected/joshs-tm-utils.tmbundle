@@ -9,7 +9,7 @@ This bundle is a collection of commands, macros, and snippets that I've found us
 	Selects text between pairs of HTML or XML tags
 	
 *	**HTML tags to lowercase**  
-	Converts HTML tag names to lowercase
+	Converts HTML tag and attribute names to lowercase
 	
 *	**mailto**  
 	Inserts a simple HTML *mailto:* link

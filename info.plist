@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Josh's TM Utilities</string>
+	<key>ordering</key>
+	<array>
+		<string>DD59EE07-30E5-4657-A782-1B78CABE2E5D</string>
+		<string>78075CCB-E619-4AD8-ABAC-D54ADED2F004</string>
+		<string>CB55D486-D20D-4E8B-9A5E-78A86EB58B91</string>
+		<string>CDA55C3A-98C8-4E41-9FC9-58F2CA61F43F</string>
+		<string>71E17594-3942-4A25-90CF-688DE31FBE05</string>
+		<string>F2C7A0EF-9F8B-44AD-A82F-96BB011423F9</string>
+		<string>75F5A363-5879-447A-A11C-26314519159D</string>
+		<string>EC6BC79A-0F52-4918-A831-EAED161E857E</string>
+		<string>2469D703-8136-461D-B7E6-2091452172D8</string>
+		<string>DD0DE17B-DC3B-4947-AC6B-51E0E277AEFC</string>
+	</array>
+	<key>uuid</key>
+	<string>5163E2A9-2655-4B85-96CF-5D9E506170A7</string>
+</dict>
+</plist>
